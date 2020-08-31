@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/mahmoodhussam/React-To-Do-List.git/static/css/main.d447c891.chunk.css",
+    "main.js": "/mahmoodhussam/React-To-Do-List.git/static/js/main.5ea92e15.chunk.js",
+    "main.js.map": "/mahmoodhussam/React-To-Do-List.git/static/js/main.5ea92e15.chunk.js.map",
+    "runtime-main.js": "/mahmoodhussam/React-To-Do-List.git/static/js/runtime-main.fc9e3f6e.js",
+    "runtime-main.js.map": "/mahmoodhussam/React-To-Do-List.git/static/js/runtime-main.fc9e3f6e.js.map",
+    "static/js/2.d18247c3.chunk.js": "/mahmoodhussam/React-To-Do-List.git/static/js/2.d18247c3.chunk.js",
+    "static/js/2.d18247c3.chunk.js.map": "/mahmoodhussam/React-To-Do-List.git/static/js/2.d18247c3.chunk.js.map",
+    "index.html": "/mahmoodhussam/React-To-Do-List.git/index.html",
+    "precache-manifest.654d130e7fa1b9608d65f528afbec5ae.js": "/mahmoodhussam/React-To-Do-List.git/precache-manifest.654d130e7fa1b9608d65f528afbec5ae.js",
+    "service-worker.js": "/mahmoodhussam/React-To-Do-List.git/service-worker.js",
+    "static/css/main.d447c891.chunk.css.map": "/mahmoodhussam/React-To-Do-List.git/static/css/main.d447c891.chunk.css.map",
+    "static/js/2.d18247c3.chunk.js.LICENSE.txt": "/mahmoodhussam/React-To-Do-List.git/static/js/2.d18247c3.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/mahmoodhussam/React-To-Do-List.git/static/media/logo.5d5d9eef.svg",
+    "static/media/trash.png": "/mahmoodhussam/React-To-Do-List.git/static/media/trash.2c3e6019.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fc9e3f6e.js",
+    "static/js/2.d18247c3.chunk.js",
+    "static/css/main.d447c891.chunk.css",
+    "static/js/main.5ea92e15.chunk.js"
+  ]
+}
